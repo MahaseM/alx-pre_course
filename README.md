@@ -1,1 +1,1 @@
-My first readme
+I make and sell fin tech software
